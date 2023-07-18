@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thekondavinit
 - 👀 I’m interested in ...html,css,php mysql
-- 🌱 I’m currently learning ...intership 
+- 🌱 I’m currently learning ...PHP, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
